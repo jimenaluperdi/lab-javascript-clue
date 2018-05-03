@@ -92,4 +92,3 @@ var roomsArray = [];
 
 // Weapons Collection
 var weaponsArray = [];
-console.log("hola");
